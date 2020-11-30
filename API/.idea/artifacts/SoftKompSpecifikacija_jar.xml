@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SoftKompSpecifikacija:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SoftKompSpecifikacija_jar</output-path>
+    <root id="archive" name="SoftKompSpecifikacija.jar">
+      <element id="module-output" name="SoftKompSpecifikacija" />
+    </root>
+  </artifact>
+</component>
